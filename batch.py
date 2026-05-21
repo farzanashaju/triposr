@@ -1,7 +1,6 @@
 # python batch.py \
 #     --input-dir /home2/farzana/3d-heritage/data \
-#     --output-dir /home2/farzana/3d-heritage/output_triposr \
-#     --no-remove-bg
+#     --output-dir /home2/farzana/3d-heritage/output_triposr --mc-resolution 256
 
 import argparse
 import logging
